@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+  text-align: center;
+}
+.app img{
+  width: 100%;
+  height: auto;
+  border-style: solid;
+  border-color: black;
+}
+
+
