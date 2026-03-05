@@ -6,7 +6,7 @@ import p2 from '../src/img/02.jpg'
 function App() {
   return (
     <div className="app">
-      <header><img src={Header} alt='logo do site'/></header>
+      <img src={Header} alt='logo do site'/>
       <img src={p1} alt='logo do site'/>
       <img src={p2} alt='logo do site'/>
     </div>
